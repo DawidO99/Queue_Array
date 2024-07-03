@@ -1,2 +1,2 @@
 # Queue on Arrays
-Simple queue implementation on arrays in C++ language
+Simple queue implementation on arrays in C language
