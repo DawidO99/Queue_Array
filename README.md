@@ -1,1 +1,2 @@
-# projekt_04_queue_array
+# Queue on Arrays
+Simple queue implementation on arrays in C++ language
